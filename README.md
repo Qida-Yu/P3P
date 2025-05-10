@@ -1,0 +1,1 @@
+This project presents an innovative solution to the classic Perspective-Three-Point (P3P) problem in computer vision. The P3P problem aims to estimate the camera's pose (rotation and translation) from three 2D-3D point correspondences.
